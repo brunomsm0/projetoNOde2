@@ -21,12 +21,12 @@
     "@types/jest": "^28.1.6",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
+    "dochelper": "^1.1.1",
     "express": "~4.16.1",
     "morgan": "~1.9.1",
     "ts-jest": "^28.0.7",
     "typescript": "^4.7.4"
   },
-  "devDependencies": {},
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/brunomsm0/projetoNOde2/issues"
