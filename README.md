@@ -2,6 +2,11 @@
 import * as dochelper from "dochelper";
 
 
+LIB CEL
+
+console.log(CEL.validate("(91)98282-8282"));
+console.log(CEL.format("91982828282"));
+
 LIB CEP
 
 console.log(CEP.validate("68743-232"));
