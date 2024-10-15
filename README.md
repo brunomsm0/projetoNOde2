@@ -2,18 +2,8 @@
 
 LIB CEP
 
-const cep = require('js-format-cep);
-console.log(cpf.formatCEP("68743232"))
-
-Output:
-68.743-232
-
-import { formatCEP } from 'js-format-cep'
-console.log(formatCEP("68743232"))
-
-Output:
-68.743-232
-
+console.log(CEP.validate("68743-232"));
+console.log(CEP.format("68743232"));
 
 LIB CPF
 import * as dochelper from "dochelper";
